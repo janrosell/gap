@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>gap</name>
+  <version>0.0.0</version>
+  <description>The gap package</description>
+
+  <maintainer email="jan.rosell@upc.edu">linux</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>gazebo</depend>
+
+
+  <!--depend>kautham</depend-->
+
+</package>
